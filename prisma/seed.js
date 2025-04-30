@@ -16,11 +16,10 @@ const userData = {
       { task: "Finish the Project" },
       { task: "Modify Code" },
       { task: "Experimental Code" },
-<<<<<<< HEAD
       { task: "Yawa" },
-=======
       { task: "DeveloperB" },
->>>>>>> DeveloperB
+      { task: "DeveloperB Remote" },
+      
 
     ],
   },
